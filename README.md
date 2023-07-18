@@ -6,7 +6,7 @@
 * Beth Harvey
 * GitHub Repo: https://github.com/bethharvey/wmnlp-json-sentiment
 
-The goal of this project is to use APIs to acquire data in JSON format.
+The goal of this project is to use APIs to acquire data in JSON format, then perform sentiment analysis on the data. The lyricsgenius API will be used to get song lyrics, save them in JSON files, then perform sentiment analysis using spacy and spacy text blob.
 
 Complete the tasks in the Python Notebook in this repository.
 To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
